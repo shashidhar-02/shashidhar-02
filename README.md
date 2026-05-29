@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Shashidhar Mushike
-```md
+# 👋 Hi, I'm Shashidhar Mushike
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" alt="Penguin Saying Hi" />
 </p>
 
-# 👋 Hi, I'm Shashidhar Mushike
-```
+### 🚀 DevOps Engineer | Cloud & Automation Enthusiast
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shashidhar-02&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 
 
 ### DevOps Engineer • Cloud & Automation Enthusiast
