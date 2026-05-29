@@ -1,4 +1,12 @@
 # 👋 Hi, I'm Shashidhar Mushike
+```md
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" alt="Penguin Saying Hi" />
+</p>
+
+# 👋 Hi, I'm Shashidhar Mushike
+```
+
 
 ### DevOps Engineer • Cloud & Automation Enthusiast
 
