@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shashidhar Mushike
 
 <p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybjI0ZnhzYTZzZXlsNG0zMThkOWVqdnMxeGx6eWlnbjRqdGQxdmIwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ed1FaePDtIjlz2tunv/source.gif" width="120" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRlandiNmxhcjd0aHIxaDlxb3d4N3FtdTRxMTlobGZlNW1sOXpoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webphttps://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRlandiNmxhcjd0aHIxaDlxb3d4N3FtdTRxMTlobGZlNW1sOXpoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="220" alt="Penguin Saying Hi" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybjI0ZnhzYTZzZXlsNG0zMThkOWVqdnMxeGx6eWlnbjRqdGQxdmIwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ed1FaePDtIjlz2tunv/source.gif" width="120"  height ="220"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRlandiNmxhcjd0aHIxaDlxb3d4N3FtdTRxMTlobGZlNW1sOXpoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webphttps://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRlandiNmxhcjd0aHIxaDlxb3d4N3FtdTRxMTlobGZlNW1sOXpoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="220"  height="220" alt="Penguin Saying Hi" />
 </p>
 
 ### 🚀 DevOps Engineer | Cloud & Automation Enthusiast
