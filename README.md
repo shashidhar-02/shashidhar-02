@@ -83,81 +83,24 @@ Focused on designing scalable, secure, and cost-optimized infrastructure for mod
 * ML anomaly detection using Isolation Forest
 * Operational monitoring & incident detection
 
----
-# 1. Use Correct Links
+## 📊 GitHub Stats
 
-## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashidhar-02\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-```md id="6c1m6y"
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashidhar-02&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-```
+## 🔥 GitHub Streak
 
-## Top Languages
+![GitHub Streak](https://streak-stats.demolab.com?user=shashidhar-02\&theme=tokyonight\&hide_border=true)
 
-```md id="zjz8o7"
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashidhar-02&layout=compact&theme=tokyonight&langs_count=8)
-```
+## 💻 Top Languages
 
-## Commit Streak
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashidhar-02\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-```md id="t3k98d"
-![GitHub Streak](https://streak-stats.demolab.com?user=shashidhar-02&theme=tokyonight)
-```
+## 📈 Contribution Graph
 
-# 2. Make Repositories Public
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashidhar-02\&theme=tokyo-night)
 
-Private repos usually do NOT fully count in language stats.
 
-Go to:
 
-* Repository
-* Settings
-* Danger Zone
-* Change visibility → Public
-
-# 3. Push Real Code
-
-Top languages only work if:
-
-* repos contain actual code
-* enough lines exist
-* correct file extensions exist
-
-Example:
-
-* `.py`
-* `.yaml`
-* `.tf`
-* `.sh`
-* `.go`
-
-# 4. Exclude Junk Repositories
-
-Add this:
-
-```md id="e9h3xu"
-&exclude_repo=test,hello-world
-```
-
-Example:
-
-```md id="44zprr"
-https://github-readme-stats.vercel.app/api/top-langs/?username=shashidhar-02&exclude_repo=test,hello-world
-```
-
-# 5. Force Refresh
-
-Open the image link directly in browser and add:
-
-```md id="m9m34v"
-&cache_seconds=1
-```
-
-Example:
-
-```md id="z5y8gm"
-https://github-readme-stats.vercel.app/api?username=shashidhar-02&show_icons=true&cache_seconds=1
-```
 
 
 ---
