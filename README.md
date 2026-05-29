@@ -84,12 +84,22 @@ Focused on designing scalable, secure, and cost-optimized infrastructure for mod
 * Operational monitoring & incident detection
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashidhar-02\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashidhar-02\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashidhar-02\&layout=compact\&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shashidhar-02\&theme=tokyonight\&hide_border=true)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashidhar-02\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashidhar-02\&theme=tokyo-night)
+
 
 ---
 
