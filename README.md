@@ -1,18 +1,19 @@
-# Hi there 👋 I'm Shashidhar
+# Hi there 👋 I'm Shashidhar Mushike
 
 🚀 DevOps & Cloud Enthusiast
-💻 Passionate about Linux, AWS, Docker, Kubernetes & Automation
-🎯 Goal: Become a DevOps Engineer
+💻 Passionate about Linux, AWS, Docker, Kubernetes,IAC,Observability & Automation
+🎯 Goal: Become a DevOps/Cloud Engineer
 📍 India
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently learning **DevOps, Cloud & Automation**
-* 🌱 Exploring **AWS, Terraform, Kubernetes, CI/CD**
+* 🔭 Currently learning **DevOps, Cloud **
+* 🌱 Exploring **AWS, Terraform, Kubernetes, CI/CD,GithubActions,jeenkins,Docker,Linux,Git,Oberservability**
 * 🐧 Linux enthusiast
-* ⚡ Interested in **Cloud Infrastructure, SRE & Automation**
+* 
+* ⚡ Interested in **Devops,Cloud Infrastructure, SRE & Automation**
 * 💡 Building projects to improve real-world DevOps skills
 
 ---
@@ -52,8 +53,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
-* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://www.linkedin.com/in/shashidhar-mushike-a82a142b7/
+* GitHub:https://github.com/shashidhar-02
 
 ---
 
