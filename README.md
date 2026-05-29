@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Shashidhar Mushike
-
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybjI0ZnhzYTZzZXlsNG0zMThkOWVqdnMxeGx6eWlnbjRqdGQxdmIwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ed1FaePDtIjlz2tunv/source.gif" width="220" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" alt="Penguin Saying Hi" />
